@@ -1,0 +1,8 @@
+
+/* Custom styles for ResuMagic */
+body {
+    font-family: 'Inter', sans-serif;
+}
+#feedback {
+    display: none;
+}
